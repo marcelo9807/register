@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "163gEMlaSjCd9sfIiS112hLLcBauY82yA7D/vMWnnxU=",
+  "Source": "register",
+  "BasePath": "_content/register",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
